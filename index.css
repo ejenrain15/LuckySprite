@@ -21,15 +21,27 @@ body {
 	font-size: 30px;
 	color: white;
 		color: #ffff;
-	    text-shadow:0 0 10px #ffff,
-	                0 0 20px #ffff,
-	                0 0 40px #ffff,
-	                0 0 80px #ffff,
-	                0 0 120px #ffff,
-	                0 0 160px #ffff;
+	    text-shadow:0 0 10px red,
+	                0 0 20px red,
+	                0 0 40px red,
+	                0 0 80px red,
+	                0 0 120px red,
+	                0 0 160px red;
 
 }
 
 p {
+	margin-top: 15px;
 	color: white;
+	text-align: justify;
+}
+
+.soc-logo {
+	width: 50px;
+}
+
+.soc-logo1 {
+	width: 28px;
+	margin-right: 10px;
+	margin-left: 10px;
 }
